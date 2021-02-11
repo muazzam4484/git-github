@@ -1,3 +1,0 @@
-<?php
-
-Loray ty char
